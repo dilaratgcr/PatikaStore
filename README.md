@@ -1,1 +1,3 @@
 React-Native Kullanılarak Mağaza Örneği Uygulaması Yapılması...
+
+<img src="https://github.com/dilaratgcr/PatikaStore/blob/master/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-10%20145820.png">
